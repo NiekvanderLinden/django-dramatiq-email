@@ -2,7 +2,7 @@
 
 Email backend for Django sending emails via Dramatiq.
 
-This package is tested up to Django 4.1.
+This package is tested up to Django 4.2.
 
 [![Test Status](https://github.com/SendCloud/django-dramatiq-email/workflows/Test/badge.svg?branch=master)](https://github.com/SendCloud/django-dramatiq-email/actions?query=workflow%3ATest)
 [![Lint Status](https://github.com/SendCloud/django-dramatiq-email/workflows/Lint/badge.svg?branch=master)](https://github.com/SendCloud/django-dramatiq-email/actions?query=workflow%3ALint)
